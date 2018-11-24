@@ -1,4 +1,4 @@
-#### This repository contains implemenation of different RNN Cells
+RNN Cells:
 
 - [x] Multiplicative LSTM cell (mLSTM)
 
